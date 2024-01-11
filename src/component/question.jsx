@@ -179,7 +179,7 @@ const Questioner = () => {
         { text: "Java", isCorrect: false },
         { text: "Python", isCorrect: true },
         { text: "JavaScript", isCorrect: false },
-        { text: "C#", isCorrect: false },
+        { text: "php", isCorrect: false },
       ],
     },
     {

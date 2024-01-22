@@ -237,7 +237,7 @@ const Questioner = () => {
         ) : (
           <>
             <h1>
-              Question {currentQuestion + 1} / {questionList.length}
+              Question {currentQuestion + 1} || {questionList.length}
             </h1>
             <div className="question">
               <p>{questionList[currentQuestion].question}</p>
